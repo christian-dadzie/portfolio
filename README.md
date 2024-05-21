@@ -95,7 +95,7 @@ The contact form includes real-time validation for required fields and email for
 If you have any questions or would like to get in touch, feel free to contact me:
 
 - **Email**: [christiandadzie99@gmail.com](mailto:christiandadzie99@gmail.com)
-- **LinkedIn**: [christiandadzie](https://www.linkedin.com/christiandadzie23)
+- **LinkedIn**: [christiandadzie](https://www.linkedin.com/in/christian-dadzie23)
 - **Twitter**: [@christiandad11](https://twitter.com/christianDadz11)
 
 ---
